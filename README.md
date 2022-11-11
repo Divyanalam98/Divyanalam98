@@ -1,5 +1,5 @@
 
-### <div align="center">Hi 👋, I'm Divya
+### <div align="left">Hi 👋, I'm Divya
 I'm pursuing my Masters in Data Analytics at San Jose State University. 👨‍💻 
 </div>  
   
