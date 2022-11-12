@@ -20,7 +20,7 @@ Past: Systems Engineer at Tata Consultancy Services
  
 🔐 Implementing RBAC for DynamoDB Databases
 
-🔎 Exploratory Data Analysis on SF Restaurants Scores Dataset
+🔎 Exploratory Data Analysis on SF Restaurants Scores Dataset ( with Ipyleaflet and other libraries)
 
   
   
