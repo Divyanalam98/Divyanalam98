@@ -9,11 +9,18 @@ Past: Systems Engineer at Tata Consultancy Services
 
 
 ## 🔨 I'm currently working on :   
- 🚲 Rebalancing bike sharing systems using Reinforcement Learning.
+🚲 Rebalancing bike sharing systems using Reinforcement Learning.
 
 📈 Forecasting Stock Price Movement
 
 🔎 Flood Detection using k-means clustering
+
+## 👩‍💻 Previous Projects :   
+🔐 Implementing ABAC for MongoDB Databases
+ 
+🔐 Implementing RBAC for DynamoDB Databases
+
+🔎 Exploratory Data Analysis on SF Restaurants Scores Dataset
 
   
   
