@@ -9,7 +9,7 @@ Past: Systems Engineer at Tata Consultancy Services
 
 
 ## 🔨 I'm currently working on :   
-🚲 Rebalancing bike sharing systems using Reinforcement Learning.
+🚲 Rebalancing bike sharing systems using Machine Learning.
 
 📈 Forecasting Stock Price Movement
 
