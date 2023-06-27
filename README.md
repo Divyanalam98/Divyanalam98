@@ -14,6 +14,8 @@ Past: Systems Engineer at Tata Consultancy Services
 
 🗡 User Segmentation using StackOverflow data
 
+📈 Forecasting Stock Price Movement - Using Deep Learning Models
+
 ## 👩‍💻 Previous Projects :  
 
 🔐 Implementing ABAC for MongoDB Databases
