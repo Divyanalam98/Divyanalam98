@@ -1,6 +1,6 @@
 
 ### <div align="left">Hi 👋, I'm Divya
-I'm pursuing my Masters in Data Analytics at San Jose State University. 👨‍💻 
+I'm pursuing my Master's in Data Analytics at San Jose State University. 👨‍💻 
 
 Past: Systems Engineer at Tata Consultancy Services 
 </div>  
@@ -8,17 +8,23 @@ Past: Systems Engineer at Tata Consultancy Services
 
 
 
-## 🔨 I'm currently working on :   
+## 🔨 I'm currently working on : 
+
+🤖 Adapt/Enhance ChatGPT for Live-Line
+
+🗡 User Segmentation using StackOverflow data
+
+## 👩‍💻 Previous Projects :  
+
+🔐 Implementing ABAC for MongoDB Databases
+ 
+🔐 Implementing RBAC for DynamoDB Databases
+
 🚲 Rebalancing bike sharing systems using Machine Learning.
 
 📈 Forecasting Stock Price Movement
 
-🔎 Flood Detection using k-means clustering
-
-## 👩‍💻 Previous Projects :   
-🔐 Implementing ABAC for MongoDB Databases
- 
-🔐 Implementing RBAC for DynamoDB Databases
+🖼 Stable Diffusion - Images to Prompts
 
 🔎 Exploratory Data Analysis on SF Restaurants Scores Dataset ( with Ipyleaflet and other libraries)
 
