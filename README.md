@@ -1,13 +1,10 @@
 
-### <div align="left">Hi 👋, I'm Divya
-I'm pursuing my Master's in Data Analytics at San Jose State University. 👨‍💻 
+### <div align="left">Hi 👋
 
-Past: Systems Engineer at Tata Consultancy Services 
+Data alchemist, turning raw chaos into golden insights with my magical data skills! ✨🔮📊
+
 </div>  
   
-
-
-
 ## 🔨 I'm currently working on : 
 
 🤖 Adapt/Enhance ChatGPT for Live-Line
@@ -28,7 +25,20 @@ Past: Systems Engineer at Tata Consultancy Services
 
 🖼 Stable Diffusion - Images to Prompts
 
-🔎 Exploratory Data Analysis on SF Restaurants Scores Dataset ( with Ipyleaflet and other libraries)
+🍜 Exploratory Data Analysis on SF Restaurants Scores Dataset ( with Ipyleaflet and other libraries)
+
+💉 Predicting Diabetes Diagnosis with Deep Learning
+
+🔎 Object Detection
+
+🔢 Handwritten Digit Recognition with Deep Learning
+
+👚 Image Classification with Fashion MNIST Dataset using Deep Learning
+
+🐶 A Deep Learning Approach to Cat, Dog, and Panda Image Classification
+
+❔ Prompt Engineering
+
 
 
 
