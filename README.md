@@ -1,11 +1,9 @@
 
 ### <div align="left">Hi 👋 I'm Divya
 
-About: Data alchemist, turning raw chaos into golden insights with my magical data skills! ✨🔮📊
-
 </div>  
   
-## 🔨 I'm currently working on : 
+## 🔨 Projects I'm currently working on : 
 
 🤖 Adapt/Enhance ChatGPT for Live-Line
 
