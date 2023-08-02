@@ -62,6 +62,3 @@ Data alchemist, turning raw chaos into golden insights with my magical data skil
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Divyanalam98&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
