@@ -29,7 +29,7 @@ Data alchemist, turning raw chaos into golden insights with my magical data skil
 
 💉 Predicting Diabetes Diagnosis with Deep Learning
 
-🔎 Object Detection
+☐ Object Detection
 
 🔢 Handwritten Digit Recognition with Deep Learning
 
@@ -41,7 +41,15 @@ Data alchemist, turning raw chaos into golden insights with my magical data skil
 
 🍎 CycleGAN for Apple to Orange Image Conversion
 
+🌝 Lunar Lander - Reinforcement Learning
 
+🇰 Text Classification utilizing Roberta
+
+🈯 Multi-Lingual Translation - English and Portuguese
+
+📈 Google Stock Prediction - RNN
+
+🔎 Spam or Ham
 
 
 ## Connect with me  
