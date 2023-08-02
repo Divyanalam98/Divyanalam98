@@ -1,7 +1,7 @@
 
-### <div align="left">Hi 👋
+### <div align="left">Hi 👋 I'm Divya
 
-Data alchemist, turning raw chaos into golden insights with my magical data skills! ✨🔮📊
+About: Data alchemist, turning raw chaos into golden insights with my magical data skills! ✨🔮📊
 
 </div>  
   
