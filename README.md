@@ -9,6 +9,8 @@
 
 🗡 User Segmentation using StackOverflow data
 
+🌊 Real time Data Streaming and Analysis 
+
 ## 👩‍💻 Previous Projects :  
 
 🔐 Implementing ABAC for MongoDB Databases
